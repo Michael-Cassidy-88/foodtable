@@ -1,0 +1,215 @@
+{
+	"ProductCatalog": [{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "1"
+					},
+					"ProductCategory": {
+						"S": "Food"
+					},
+					"Description": {
+						"S": "Bacon"
+					},
+					"MainMacronutrient": {
+						"S": "Fat"
+					},
+					"Micronutrient": {
+						"S": "VitB"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "2"
+					},
+					"ProductCategory": {
+						"S": "Food"
+					},
+					"Description": {
+						"S": "Steak"
+					},
+					"MainMacronutrient": {
+						"S": "Protein"
+					},
+					"Micronutrient": {
+						"S": "VitB"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "3"
+					},
+					"ProductCategory": {
+						"S": "Food"
+					},
+					"Description": {
+						"S": "Eggs"
+					},
+					"MainMacronutrient": {
+						"S": "Protein"
+					},
+					"Micronutrient": {
+						"S": "Choline"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "4"
+					},
+					"ProductCategory": {
+						"S": "Food"
+					},
+					"Description": {
+						"S": "Spinach"
+					},
+					"MainMacronutrient": {
+						"S": "Carb"
+					},
+					"Micronutrient": {
+						"S": "VitK"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "5"
+					},
+					"ProductCategory": {
+						"S": "Food"
+					},
+					"Description": {
+						"S": "Potato"
+					},
+					"MainMacronutrient": {
+						"S": "Carb"
+					},
+					"Micronutrient": {
+						"S": "VitC"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "6"
+					},
+					"ProductCategory": {
+						"S": "Food"
+					},
+					"Description": {
+						"S": "Carrot"
+					},
+					"MainMacronutrient": {
+						"S": "Carb"
+					},
+					"Micronutrient": {
+						"S": "VitA"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "7"
+					},
+					"ProductCategory": {
+						"S": "Food"
+					},
+					"Description": {
+						"S": "Butter"
+					},
+					"MainMacronutrient": {
+						"S": "Fat"
+					},
+					"Micronutrient": {
+						"S": "VitA"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "8"
+					},
+					"ProductCategory": {
+						"S": "Food"
+					},
+					"Description": {
+						"S": "Blueberry"
+					},
+					"MainMacronutrient": {
+						"S": "Carb"
+					},
+					"Micronutrient": {
+						"S": "Fiber"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "9"
+					},
+					"ProductCategory": {
+						"S": "Food"
+					},
+					"Description": {
+						"S": "DarkChocolate"
+					},
+					"MainMacronutrient": {
+						"S": "Fat"
+					},
+					"Micronutrient": {
+						"S": "Magnesium"
+					}
+				}
+			}
+		},
+		{
+			"PutRequest": {
+				"Item": {
+					"Id": {
+						"N": "10"
+					},
+					"ProductCategory": {
+						"S": "Food"
+					},
+					"Description": {
+						"S": "CoffeeBean"
+					},
+					"MainMacronutrient": {
+						"S": "Carb"
+					},
+					"Micronutrient": {
+						"S": "ChlorogenicAcid"
+					}
+				}
+			}
+		}
+
+
+	]
+}
